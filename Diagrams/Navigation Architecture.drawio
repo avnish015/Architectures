@@ -154,9 +154,10 @@
         <mxCell id="hBzp_D6qh12hDb4rt6_J-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Main Coordinator" vertex="1">
           <mxGeometry height="50" width="166" x="341" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="hBzp_D6qh12hDb4rt6_J-32" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.552;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;" target="1-cwZstGPS8-OiOmEu3i-4">
+        <mxCell id="hBzp_D6qh12hDb4rt6_J-32" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="384" y="545" as="sourcePoint" />
+            <mxPoint x="231" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hBzp_D6qh12hDb4rt6_J-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Deep Link Destination" vertex="1">
@@ -172,7 +173,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hBzp_D6qh12hDb4rt6_J-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Navigate to different Tab" vertex="1">
-          <mxGeometry height="30" width="120" x="70.5" y="430" as="geometry" />
+          <mxGeometry height="30" width="120" x="70.5" y="465" as="geometry" />
         </mxCell>
         <mxCell id="hBzp_D6qh12hDb4rt6_J-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Navigate to different Tab" vertex="1">
           <mxGeometry height="30" width="120" x="250.5" y="465" as="geometry" />
