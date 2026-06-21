@@ -38,7 +38,7 @@
         <mxCell id="U3yUFJn6DccdlfYaWibx-15" edge="1" parent="1" source="U3yUFJn6DccdlfYaWibx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="U3yUFJn6DccdlfYaWibx-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U3yUFJn6DccdlfYaWibx-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="AppState" vertex="1">
+        <mxCell id="U3yUFJn6DccdlfYaWibx-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="AppCoordinator" vertex="1">
           <mxGeometry height="60" width="120" x="350" y="90" as="geometry" />
         </mxCell>
         <mxCell id="U3yUFJn6DccdlfYaWibx-17" edge="1" parent="1" source="U3yUFJn6DccdlfYaWibx-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" target="U3yUFJn6DccdlfYaWibx-4">
